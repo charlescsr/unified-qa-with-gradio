@@ -1,0 +1,5 @@
+outs:
+- md5: 7031f8ca35bf03ec1118e9fdd70933b7.dir
+  size: 14340
+  nfiles: 1
+  path: .ipynb_checkpoints
