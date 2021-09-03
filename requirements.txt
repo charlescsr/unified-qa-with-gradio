@@ -14,6 +14,7 @@ PyYAML==5.4.1
 regex==2021.8.28
 requests==2.26.0
 sacremoses==0.0.45
+sentencepiece==0.1.96
 six==1.16.0
 tokenizers==0.10.3
 https://download.pytorch.org/whl/cpu/torch-1.9.0%2Bcpu-cp39-cp39-linux_x86_64.whl
