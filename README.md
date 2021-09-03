@@ -1,4 +1,4 @@
-# unified-qa-with-gradio
+# Gradio app to show Unified QA
 
 Trying out QA using [Unified QA](https://github.com/allenai/unifiedqa) from [Allen AI](https://github.com/allenai)
 
